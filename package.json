@@ -23,7 +23,7 @@
   "dependencies": {
     "browser-locale": "^1.0.0",
     "xhr": "^1.16.1",
-    "mustache": "^0.8.2"
+    "mustache": "^4.0.1"
   },
   "devDependencies": {
     "after-all": "^2.0.1",
